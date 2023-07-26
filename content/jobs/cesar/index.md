@@ -6,6 +6,10 @@ range: 'February 2020 - Present'
 url: 'http://www.centralcoalfields.in/ind/'
 ---
 
-- Project on developing a fully working dynamic eCommerce website using PHP and MySQL.
-- Prepared a complete report about the specifications and working of the software.
-- View [PROJECT REPORT](https://drive.google.com/file/d/1Cn6gxJ1UYpcdz97FivBBp-SsXiVbgg5-/view?usp=sharing) and [CERTIFICATE](https://drive.google.com/file/d/1R1in-IgfDj9qx9btWEeA_9Ob3db-54_c/view?usp=sharing)
+- Integral member of a dynamic R&D team, focused on groundbreaking research in Software Engineering, Data Science, and AI. Contributed to the development of innovative solutions to address a diverse range of challenges for global clients.
+
+- Spearheaded the development of Python-based microservices encompassing pipelines, data streaming (Spark), and messaging systems (Kafka, RabbitMQ). Leveraged cutting-edge technologies like Docker, Kubernetes, Helm Chart, REST API, gRPC, MongoDB, SQL, OracleDB, and CI/CD to ensure seamless and efficient data processing.
+
+- Led the planning, training, evaluation, deployment, and maintenance of Machine Learning and Deep Learning models using advanced tools and frameworks such as PyTorch, Scikit-Learn, Feast, Apache Airflow, MLflow, Pandas, and Numpy.
+
+- Translated client requirements into comprehensive application designs, aligning project objectives and ensuring successful outcomes. Utilized Agile methodologies like Kanban and Scrum to foster a collaborative and agile work environment, optimizing project execution and delivery.
