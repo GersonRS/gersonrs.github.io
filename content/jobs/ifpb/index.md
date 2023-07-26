@@ -1,17 +1,11 @@
 ---
 date: '2020-05-10'
-title: 'Substitute teacher'
+title: 'Substitute Professor at (Federal Institute of Education, Science, and Technology of Paraíba) - Campus Monteiro'
 company: 'IFPB'
 range: 'May 2017 - April 2018'
 url: 'https://www.ifpb.edu.br/'
 ---
 
-- Responsible for code development, UAT support, automation of Bell Canada NM1-RTB customisation project as part of Digital Delivery scrum team. (Oct 2021 - present)
+- During my time as a Substitute Professor at IFPB, I had the privilege of teaching various subjects, including "Administração de Sistemas Operacionais Proprietário e Abertos" (Administration of Proprietary and Open Operating Systems), "Introdução a Programação" (Introduction to Programming), and "Gestão de Projetos" (Project Management) to students enrolled in the technical courses of Integrated and Subsequent education in "Manutenção e Suporte a Informática" (Maintenance and Support in Informatics).
 
-- Part of Walk-the-Tech Go team of 10 developers building a microservice in Go language. Tech stack includes Couchbase, Go echo framework, REST APIs implementation, JMeter and Postman for testing purposes.
-
-- Selected as one of the 15 Amdocs India Innovation Agents with the least industry experience in years.
-
-- Responsible for code development as a developer of Amdocs Technology BSS-B2B Billing & RTB scrum team. (Nov 2020 - Oct 2021)
-
-- Certified in Agile, [DevOps](https://drive.google.com/file/d/133QWdIhw9KI0YMKs1SPI_6VQ1ENtMiCe/view?usp=sharing), and MS360 architecture.
+- I took a forward-thinking approach to teaching by incorporating innovative learning tools and methodologies to engage my students. I utilized platforms such as Scratch, AppInventor, and unplugged activities to foster a dynamic and interactive learning environment. It was a fulfilling experience to witness my students' growth and enthusiasm for the subjects, and I am proud to have contributed to their educational journey during my tenure as a Substitute Professor at IFPB.
