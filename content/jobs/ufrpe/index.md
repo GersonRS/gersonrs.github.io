@@ -1,7 +1,7 @@
 ---
 date: '2016-03-16'
-title: 'Substitute Professor at (Federal Rural University of Pernambuco) - Campus Serra Talhada'
-company: 'UFPRE'
+title: 'Substitute Professor at (Universidade Federal Rural de Pernambuco) - Campus Serra Talhada'
+company: 'UFRPE'
 range: 'April 2016 - April 2017'
 url: 'https://www.ufrpe.br/'
 ---

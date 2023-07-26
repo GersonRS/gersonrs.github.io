@@ -1,6 +1,6 @@
 ---
-date: '2020-05-10'
-title: 'Substitute Professor at (Federal Institute of Education, Science, and Technology of Paraíba) - Campus Monteiro'
+date: '2017-05-10'
+title: 'Substitute Professor at (Instituto Federal de Educação, Ciência e Tecnologia da Paraíba) - Campus Monteiro'
 company: 'IFPB'
 range: 'May 2017 - April 2018'
 url: 'https://www.ifpb.edu.br/'

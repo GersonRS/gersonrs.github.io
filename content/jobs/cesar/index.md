@@ -1,6 +1,6 @@
 ---
-date: '2010-02-13'
-title: 'Data Scientist'
+date: '2020-02-13'
+title: 'Data Scientist at (Centro de Estudos e Sistemas Avançados do Recife)'
 company: 'CESAR'
 range: 'February 2020 - Present'
 url: 'http://www.centralcoalfields.in/ind/'
