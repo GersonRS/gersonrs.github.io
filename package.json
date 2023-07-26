@@ -13,7 +13,9 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy:ci": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/GersonRS/gersonrs.github.io.git"
   },
   "dependencies": {
     "@mdx-js/react": "^2.3.0",
@@ -38,6 +40,7 @@
     "gatsby-source-filesystem": "^5.11.0",
     "gatsby-transformer-remark": "^6.11.0",
     "gatsby-transformer-sharp": "^5.11.0",
+    "gh-pages": "^5.0.0",
     "lodash": "^4.17.21",
     "prismjs": "^1.29.0",
     "prop-types": "^15.8.1",

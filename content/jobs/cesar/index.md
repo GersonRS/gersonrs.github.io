@@ -1,8 +1,8 @@
 ---
-date: '2019-05-10'
-title: 'Systems Intern'
-company: 'CCL'
-range: 'May - June 2019'
+date: '2010-02-13'
+title: 'Data Scientist'
+company: 'CESAR'
+range: 'February 2020 - Present'
 url: 'http://www.centralcoalfields.in/ind/'
 ---
 

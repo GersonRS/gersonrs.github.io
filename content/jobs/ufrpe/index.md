@@ -1,9 +1,9 @@
 ---
-date: '2021-07-07'
-title: 'Freelance Content Writer'
-company: 'Pepper'
-range: 'July 2021 - Present'
-url: 'https://www.peppercontent.io'
+date: '2016-03-16'
+title: 'Substitute teacher'
+company: 'UFPRE'
+range: 'April 2016 - April 2017'
+url: 'https://www.ufrpe.br/'
 ---
 
 - Creating Tech Content as a freelancer for the content giant [Pepper Content](https://www.peppercontent.io).

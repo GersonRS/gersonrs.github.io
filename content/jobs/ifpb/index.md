@@ -1,9 +1,9 @@
 ---
-date: '2020-07-30'
-title: 'Software Developer'
-company: 'Amdocs'
-range: 'July 2020 - Present'
-url: 'https://www.amdocs.com/'
+date: '2020-05-10'
+title: 'Substitute teacher'
+company: 'IFPB'
+range: 'May 2017 - April 2018'
+url: 'https://www.ifpb.edu.br/'
 ---
 
 - Responsible for code development, UAT support, automation of Bell Canada NM1-RTB customisation project as part of Digital Delivery scrum team. (Oct 2021 - present)
